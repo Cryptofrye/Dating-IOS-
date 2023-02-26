@@ -1,0 +1,336 @@
+/*
+  Localizable.strings
+
+  Created by Demyanchuk Dmitry on 29.01.1715 ;)
+  Copyright © 1715 raccoonsquare@gmail.com All rights reserved.
+*/
+
+"admob_app_id" = "ca-app-pub-3940256099942544~1458002511"; // Test: app-pub-3940256099942544~1458002511
+"admob_banner_id" = "ca-app-pub-3940256099942544/2934735716"; // Test: ca-app-pub-3940256099942544/2934735716
+"admob_rewarded_id" = "ca-app-pub-3940256099942544/1712485313"; //Test: ca-app-pub-3940256099942544/1712485313
+
+"alert_message" = "Would you like to continue learning how to use iOS alerts?";
+"alert_logout" = "You really want to quit?";
+"alert_account_blocked" = "You account blocked";
+"alert_error_change_password" = "Incorrect current password or invalid format new password";
+"alert_success_change_password" = "Password successfully changed!";
+"incorrect_login_message" = "Incorrect login or password";
+"remind_link_sent_to_email" = "Link to reset password sent to you email";
+"remind_error_email" = "User with this email not exist in db";
+"login_taken_message" = "Username taken";
+"email_taken_message" = "Email taken";
+"email_error" = "Email taken or incorrect format";
+"username_error" = "Username taken or incorrect format";
+"fullname_error" = "Fullname must be than 2 character";
+"password_error" = "Password format incorrect";
+
+"placeholder_search" = "Search";
+"placeholder_gallery_item_comment" = "You comment to photo here...";
+
+"label_loading" = "Loading...";
+
+"label_new_system_title" = "System message";
+"label_new_custom_title" = "Custom";
+"label_new_personal_title" = "Personal";
+
+"label_new_follower_title" = "Friend";
+"label_new_follower" = "You have new friend request";
+"label_new_message_title" = "Message";
+"label_new_message" = "You have new message";
+"label_new_like_title" = "Like";
+"label_new_like" = "You have new like";
+"label_new_comment_title" = "Comment";
+"label_new_comment" = "You have new comment";
+"label_new_comment_reply_title" = "Comment reply";
+"label_new_comment_reply" = "You have new comment reply";
+"label_new_gift_title" = "Gift";
+"label_new_gift" = "You have new gift";
+
+"label_gcm_gifts" = "Gifts";
+"label_gcm_comments" = "Comments";
+"label_gcm_comments_reply" = "Comment Reply";
+"label_gcm_followers" = "Followers";
+"label_gcm_friends_request" = "Friends requests";
+"label_gcm_likes" = "Likes";
+"label_gcm_messages" = "Messages";
+
+"label_credits" = "Credits";
+"label_balance" = "Balance";
+"label_you_balance" = "You Balance";
+"label_you_sure" = "Are you sure?";
+"label_you_balance_null" = "On your balance has not enough funds";
+
+"label_activity" = "Activity";
+"label_online" = "Online";
+
+"action_enable" = "Enable";
+"action_disable" = "Disable";
+
+"label_enabled" = "Enabled";
+"label_disabled" = "Disabled";
+
+"action_send" = "Send";
+"action_yes" = "Yes";
+"action_no" = "No";
+"action_cancel" = "Cancel";
+"action_image_from_library" = "Photo Library";
+"action_image_from_camera" = "Camera";
+"action_save" = "Save";
+"action_change" = "Change";
+"action_report" = "Report";
+"action_unblock" = "Unblock";
+"action_block" = "Block";
+"action_add_to_freinds" = "Add to Friends";
+"action_remove_from_freinds" = "Delete from Friends";
+"action_edit" = "Edit";
+"action_accept" = "Accept";
+"action_reject" = "Reject";
+"action_remove" = "Remove";
+"action_delete" = "Delete";
+"action_reply" = "Reply";
+"action_view_profile" = "View Profile";
+
+"action_photo_from_library" = "Photo From Library";
+"action_photo_from_camera" = "Photo From Camera";
+"action_cover_from_library" = "Cover From Library";
+"action_cover_from_camera" = "Cover From Camera";
+
+// Settings | Privacy
+
+"label_privacy_messages" = "Private messages";
+"action_from_all" = "From all users";
+"action_from_friends" = "Only from friends";
+
+"label_privacy_gallery_comments" = "Gallery comments";
+"action_on" = "On";
+"action_off" = "Off";
+
+"label_profile_blocked" = "This profile blocked";
+
+"label_choice_action" = "Choice action";
+"label_item_remove_message" = "Delete this Item?";
+"label_gallery_item_menu" = "Item actions";
+"label_search_empty" = "Nothing found.";
+"label_empty" = "List is empty.";
+"label_item_not_exist" = "Item not Exist.";
+"label_friend_request" = "Friends Request";
+"label_profile" = "Profile";
+"label_people_search_result" = "Find people";
+"label_profile_photo" = "Profile Photo";
+"label_profile_info" = "Profile Info";
+"label_fullname" = "Fullname";
+"label_facebook" = "Facebook";
+"label_instagram" = "Instagram";
+"label_location" = "Location";
+"label_gender" = "Gender";
+"label_male" = "Male";
+"label_female" = "Female";
+"label_undefined" = "Undefined";
+"label_pending" = "Pending...";
+"label_choice_image" = "Choice image";
+
+"label_gift_added" = "mafe a gift.";
+"label_friend_request_added" = "sent you request to friends";
+"label_follow_you" = "followed you";
+"label_comment_reply_added" = "replied to you comment";
+"label_comment_added" = "added a new comment";
+"label_likes_item" = "likes you item";
+"label_likes_profile" = "likes you profile";
+
+"label_gallery" = "Gallery";
+"label_friends" = "Friends";
+"label_likes" = "Likes";
+"label_gifts" = "Gifts";
+
+"label_abuse_report" = "Abuse report";
+"label_report_spam" = "Spam";
+"label_report_hate" = "Hate speech or violence";
+"label_report_nudity" = "Nudity or Pornography";
+"label_report_fake" = "Fake profile";
+"label_report_piracy" = "Piracy";
+
+"label_join_date" = "Join Date";
+"label_birth_date" = "Birth Date";
+
+"label_location_no_access" = "No Access to you Location. Please grant access";
+"label_location_services_disabled" = "Location services are not enabled";
+
+"label_near_you" = "Near you";
+"label_km" = "km";
+
+// Dating App
+
+"label_relationship_status" = "Relationship Status";
+"label_political_views" = "Political Views";
+"label_world_views" = "World View";
+"label_personal_priority" = "Personal Priority";
+"label_important_in_others" = "Inportant in Others";
+"label_smoking_views" = "Views on Smoking";
+"label_alcohol_views" = "Views on Alcohol";
+"label_looking_for" = "Looking For";
+"label_gender_like" = "Gender Like";
+
+
+"relationship_status_0" = "Not specified";
+"relationship_status_1" = "Single";
+"relationship_status_2" = "In a relationship";
+"relationship_status_3" = "Engaged";
+"relationship_status_4" = "Married";
+"relationship_status_5" = "In love";
+"relationship_status_6" = "It's complicated";
+"relationship_status_7" = "Actively searching";
+
+"political_views_0" = "None selected";
+"political_views_1" = "Apathetic";
+"political_views_2" = "Communist";
+"political_views_3" = "Socialist";
+"political_views_4" = "Moderate";
+"political_views_5" = "Liberal";
+"political_views_6" = "Conservative";
+"political_views_7" = "Monarchist";
+"political_views_8" = "Ultraconservative";
+"political_views_9" = "Libertarian";
+
+"world_view_0" = "None selected";
+"world_view_1" = "Judaism";
+"world_view_2" = "Orthodoxy";
+"world_view_3" = "Catholicism";
+"world_view_4" = "Protestantism";
+"world_view_5" = "Islam";
+"world_view_6" = "Buddhism";
+"world_view_7" = "Confucianism";
+"world_view_8" = "Secular Humanism";
+"world_view_9" = "Pastafarianism";
+
+"personal_priority_0" = "Not specified";
+"personal_priority_1" = "Family and children";
+"personal_priority_2" = "Career and money";
+"personal_priority_3" = "Entertainment and leisure";
+"personal_priority_4" = "Science and research";
+"personal_priority_5" = "Improving the world";
+"personal_priority_6" = "Personal development";
+"personal_priority_7" = "Beauty and art";
+"personal_priority_8" = "Fame and influence";
+
+"important_in_others_0" = "Not specified";
+"important_in_others_1" = "Intellect and creativity";
+"important_in_others_2" = "Kindness and honesty";
+"important_in_others_3" = "Health and beauty";
+"important_in_others_4" = "Wealth and power";
+"important_in_others_5" = "Courage and persistence";
+"important_in_others_6" = "Humor and love for life";
+
+"smoking_views_0" = "Not specified";
+"smoking_views_1" = "Very negative";
+"smoking_views_2" = "Negative";
+"smoking_views_3" = "Compromisable";
+"smoking_views_4" = "Neutral";
+"smoking_views_5" = "Positive";
+
+"alcohol_views_0" = "Not specified";
+"alcohol_views_1" = "Very negative";
+"alcohol_views_2" = "Negative";
+"alcohol_views_3" = "Compromisable";
+"alcohol_views_4" = "Neutral";
+"alcohol_views_5" = "Positive";
+
+"you_looking_0" = "Not specified";
+"you_looking_1" = "Friendship";
+"you_looking_2" = "Relationship";
+"you_looking_3" = "Flirting";
+
+"gender_like_1" = "Interested in women";
+"gender_like_2" = "Interested in men";
+
+
+// Version 1.2
+
+"label_privacy_info" = "Show profile info only for friends";
+"label_privacy_gallery" = "Show my gallery only for friends";
+"label_privacy_friends" = "Show my friends only for friends";
+"label_privacy_likes" = "Show profile likes only for friends";
+"label_privacy_gifts" = "Show gifts only for friends";
+
+// Version 1.3
+
+"action_send_sticker" = "Select Sticker";
+"action_send_image" = "Choice Picture";
+"label_choice_action" = "Choice Action";
+"alert_need_pro_mode" = "To send unlimited messages you need Pro Mode!";
+
+// Version 1.6
+
+"label_seen" = "seen";
+"label_typing" = "typing...";
+"chat_view_controller_title" = "Chat";
+
+// Version 1.7
+
+"action_facebook_login" = "Log in with Facebook";
+"action_facebook_signup" = "Signup with Facebook";
+"action_facebook_connect" = "Connect to Facebook";
+"action_facebook_disconnect" = "Disonnect from Facebook";
+"action_regular_signup" = "Regular Signup";
+
+"alert_account_connect_success" = "You account success connected with Facebook";
+"alert_account_connect_error" = "With Facebook account alredy connect with another account";
+"alert_account_disconnect_success" = "You account success disconnect from Facebook";
+
+// Version 1.8
+
+"label_sex_orientation" = "Sex Orientation";
+"label_age" = "Age";
+"label_height" = "Height";
+"label_weight" = "Weight";
+
+"label_cm" = "cm";
+"label_kg" = "kg";
+
+"label_sex_orientation_1" = "Heterosexual";
+"label_sex_orientation_2" = "Gay";
+"label_sex_orientation_3" = "Lesbian";
+"label_sex_orientation_4" = "Bisexual";
+
+"label_sex_select" = "Select a Sex";
+"label_sex_orientation_select" = "Select a Sex Orientation";
+
+"msg_sex_orientation_error" = "Please select Sex Orientation";
+"msg_age_error_1" = "Age not less than 18";
+"msg_age_error_2" = "Age not more than 110";
+"msg_signup_error_500" = "You can not create multi-accounts!";
+
+// Version 1.9
+
+"label_media_title" = "Gallery";
+"label_media_approve" = "You gallery item approved by moderator";
+"label_media_reject" = "You gallery item rejected by moderator";
+
+"label_profile_photo_title" = "Photo";
+"label_profile_photo_approve" = "You profile photo approved by moderator";
+"label_profile_photo_reject" = "You profile photo rejected by moderator";
+
+"label_profile_cover_title" = "Cover";
+"label_profile_cover_approve" = "You profile cover approved by moderator";
+"label_profile_cover_reject" = "You profile cover rejected by moderator";
+
+//
+
+"action_video_from_library" = "Video From Library";
+
+//
+
+"otp_action_send_code" = "Send code";
+"otp_action_check_code" = "Check code";
+"otp_action_link_number" = "Link number";
+
+"otp_phone_number_placeholder" = "Enter mobile phone number...";
+"otp_sms_code_placeholder" = "Enter six-digit code from SMS";
+
+"otp_phone_number_info" = "Mobile phone number in international format, for example: +380974556781";
+"otp_sms_code_info" = "Six-digit number code from SMS";
+
+"otp_verification_promo" = "This feature is available only for users who have linked and verified mobile phone number. Link your phone number to your account and confirm via SMS to use all functions without restrictions!";
+"otp_verification_success_msg" = "Hooray. Verification completed successfully!";
+"otp_verification_error_msg" = "Error. Verification has not been completed";
+"otp_verification_code_sent_msg" = "SMS with a code has been sent to your mobile.";
+"otp_verification_phone_number_taken_error_msg" = "This phone number is already linked to another account.";
